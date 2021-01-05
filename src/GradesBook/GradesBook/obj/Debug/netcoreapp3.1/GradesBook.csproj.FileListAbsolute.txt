@@ -1,0 +1,13 @@
+C:\Users\APO\Desktop\c#\GradesBook\GradesBook\bin\Debug\netcoreapp3.1\GradesBook.exe
+C:\Users\APO\Desktop\c#\GradesBook\GradesBook\bin\Debug\netcoreapp3.1\GradesBook.deps.json
+C:\Users\APO\Desktop\c#\GradesBook\GradesBook\bin\Debug\netcoreapp3.1\GradesBook.runtimeconfig.json
+C:\Users\APO\Desktop\c#\GradesBook\GradesBook\bin\Debug\netcoreapp3.1\GradesBook.runtimeconfig.dev.json
+C:\Users\APO\Desktop\c#\GradesBook\GradesBook\bin\Debug\netcoreapp3.1\GradesBook.dll
+C:\Users\APO\Desktop\c#\GradesBook\GradesBook\bin\Debug\netcoreapp3.1\GradesBook.pdb
+C:\Users\APO\Desktop\c#\GradesBook\GradesBook\obj\Debug\netcoreapp3.1\GradesBook.csprojAssemblyReference.cache
+C:\Users\APO\Desktop\c#\GradesBook\GradesBook\obj\Debug\netcoreapp3.1\GradesBook.AssemblyInfoInputs.cache
+C:\Users\APO\Desktop\c#\GradesBook\GradesBook\obj\Debug\netcoreapp3.1\GradesBook.AssemblyInfo.cs
+C:\Users\APO\Desktop\c#\GradesBook\GradesBook\obj\Debug\netcoreapp3.1\GradesBook.csproj.CoreCompileInputs.cache
+C:\Users\APO\Desktop\c#\GradesBook\GradesBook\obj\Debug\netcoreapp3.1\GradesBook.dll
+C:\Users\APO\Desktop\c#\GradesBook\GradesBook\obj\Debug\netcoreapp3.1\GradesBook.pdb
+C:\Users\APO\Desktop\c#\GradesBook\GradesBook\obj\Debug\netcoreapp3.1\GradesBook.genruntimeconfig.cache
